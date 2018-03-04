@@ -1,0 +1,31 @@
+.original {
+    display: none;
+
+}
+
+.inline-group .tabular tr.has_original td {
+    padding-top: 0px;
+}
+
+.inline-group .tabular td, th {
+    padding: 0px;
+}
+
+.inputDisable {
+    border: 1px;
+    margin: 2px 0;
+    padding: 2px 3px;
+    vertical-align: middle;
+    font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+.displayNone {
+  display: none;
+}
+
+/* no-more-warnings.css */
+.timezonewarning {
+  display: none;
+}
